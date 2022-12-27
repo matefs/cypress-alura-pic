@@ -7,7 +7,7 @@ Testes automatizados utilizando o cypress e consumindo a aplicação http://alur
 ## Como rodar
 1. Baixe o projeto
 2. Instale `npm install `
-3. Rode `npm run test` (grafico) ou `npx cypress run ` (headless)
+3. Rode `npm run test` (grafico) ou `npx cypress run ` (headless run, gera um vídeo)
 
 
 
