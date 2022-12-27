@@ -1,7 +1,7 @@
 describe('Buscar fotos  e dados  ', () => {
     
-
-    const tempoEsperado = Math.random() * 7000;
+    // Abaixo um código que deve ser evitado, utilizando tempo.
+    //const tempoEsperado = Math.random() * 7000;
 
     it.only('buscar fotos do flavio',() => {
         cy.request({
