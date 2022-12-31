@@ -10,7 +10,9 @@ Testes automatizados utilizando o cypress e consumindo a aplicação http://alur
 1. Baixe o projeto
 2. Instale `npm install `
 3. Rode `npm run test` (grafico) ou `npx cypress run ` (headless run, gera um vídeo)
-
+4. Escolha o browser que irá utilizar para os testes.
+5. Esolha a opção "E2E Testing"
+6. Clique sobre um dos arquivos com a extensão " .cy.js".
 
 
 
