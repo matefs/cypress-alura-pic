@@ -1,4 +1,4 @@
-# cypress-alura-pic
+# Testes automatizados com cypress na plataforma Alura-pic
 Testes automatizados utilizando o cypress e consumindo a aplicação http://alura-fotos.herokuapp.com/ e sua api (https://apialurapic.herokuapp.com/flavio/photos). Projeto feito durante o curso de Cypress da alura (https://www.alura.com.br/curso-online-cypress-automacao-testes-e2e).
 
 
